@@ -9,7 +9,7 @@ Esses projetos foram feitos com o objetivo de praticar lógica, manipulação de
 Um conversor inspirado no universo de Zelda.  
 Digite um valor em reais e veja quantas rupees isso daria (valor imaginário)
 
-🔗 [Acessar projeto](#)  
+🔗 [Acessar projeto](https://codepen.io/vhlnxhyj-the-flexboxer/pen/LEYaoeV.)  
 
 ---
 
@@ -17,7 +17,7 @@ Digite um valor em reais e veja quantas rupees isso daria (valor imaginário)
 Simulador de combate onde você enfrenta o querido Sans.
 Inspirado em Undertale.
 
-🔗 [Acessar projeto](#)  
+🔗 [Acessar projeto](https://codepen.io/vhlnxhyj-the-flexboxer/pen/XJWGLop.)  
 
 ---
 
@@ -25,7 +25,7 @@ Inspirado em Undertale.
 Um jogo simples de dedução onde o jogador tenta descobrir quem é o impostor.  
 Personagens são gerados de forma aleatória.
 
-🔗 [Acessar projeto](#)  
+🔗 [Acessar projeto](https://codepen.io/vhlnxhyj-the-flexboxer/pen/LEYvPdp.)  
 
 ---
 
@@ -33,7 +33,7 @@ Personagens são gerados de forma aleatória.
 Escolha seu personagem, e o computador escolhe um oponente aleatório.  
 Os dois se enfrentam com base em sorte e atributos definidos
 
-🔗 [Acessar projeto](#)  
+🔗 [Acessar projeto](https://codepen.io/vhlnxhyj-the-flexboxer/pen/RNwOpVd.)  
 
 ---
 
@@ -41,7 +41,8 @@ Os dois se enfrentam com base em sorte e atributos definidos
 Um quiz baseado no jogo Five Nights at Freddy’s.  
 Com perguntas e respostas sobre a franquia.
 
-🔗 [Acessar projeto](#)  
+🔗 [Acessar projeto](https://codepen.io/vhlnxhyj-the-flexboxer/pen/mydgmVV.)  
+
 ---
 
 ## Tecnologias utilizadas
