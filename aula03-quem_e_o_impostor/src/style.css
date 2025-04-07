@@ -1,0 +1,112 @@
+body {
+  background: url('https://wallpapers.com/images/featured/among-us-fundo-vermelho-xef3q3pn5cvtcoxw.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+  text-align: center;
+  padding: 40px;
+  margin: 0;
+}
+
+.game-container {
+  max-width: 500px;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border: 3px solid #ffffff33;
+  border-radius: 20px;
+  box-shadow: 0 0 30px rgba(255, 255, 255, 0.2);
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #ffcc00;
+  text-shadow: 2px 2px #000;
+}
+
+#mensagem {
+  font-size: 1.2em;
+  margin: 20px 0;
+  min-height: 40px;
+  transition: all 0.3s;
+}
+
+.botoes button {
+  padding: 15px 30px;
+  margin: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer; 
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 0 10px #000;
+}
+
+.vermelho {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.azul {
+  background-color: #0000CD;
+  color: white;
+}
+
+.verde {
+  background-color: #32CD32;
+  color: white;
+}
+
+.amarelo {
+  background-color: #f1c40f;
+  color: white;
+}
+
+.laranja {
+  background-color: #e67e22;
+  color: white;
+}
+
+.ciano {
+  background-color: #00CED1;
+  color: white;
+}
+
+.botoes button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 20px #fff;
+}
+
+#btnResetar {
+  padding: 15px 30px;
+  margin: 10px;
+  font-size: 1.2em;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer; /* Corrigido */
+  transition: transform 0.2s, box-shadow 0.2s;
+  box-shadow: 0 0 10px #000;
+  display: none;
+}
+
+.resetar {
+  margin-top: 30px;
+  padding: 12px 25px;
+  font-size: 1em;
+  background-color: #9b59b6;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.resetar:hover {
+  background-color: #8e44ad;
+}
+
+
+
