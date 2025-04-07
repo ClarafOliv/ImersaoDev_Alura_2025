@@ -61,5 +61,5 @@ Com perguntas e respostas sobre a franquia.
 ## Autor
 
 Feito com carinho por Clara  
-🔗 [LinkedIn](https://www.linkedin.com/in/clara-freitas-de-oliveira-/) | [GitHub](https://github.com/seu-usuario)
+🔗 [LinkedIn](https://www.linkedin.com/in/clara-freitas-de-oliveira-/)
 
