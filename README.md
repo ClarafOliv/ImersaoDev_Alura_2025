@@ -33,7 +33,7 @@ Personagens são gerados de forma aleatória.
 Escolha seu personagem, e o computador escolhe um oponente aleatório.  
 Os dois se enfrentam com base em sorte e atributos definidos
 
-🔗 [Acessar projeto](https://codepen.io/vhlnxhyj-the-flexboxer/pen/RNwOpVd.)  
+🔗 [Acessar projeto](https://codepen.io/vhlnxhyj-the-flexboxer/pen/RNwOpVd)  
 
 ---
 
@@ -41,7 +41,7 @@ Os dois se enfrentam com base em sorte e atributos definidos
 Um quiz baseado no jogo Five Nights at Freddy’s.  
 Com perguntas e respostas sobre a franquia.
 
-🔗 [Acessar projeto](https://codepen.io/vhlnxhyj-the-flexboxer/pen/mydgmVV.)  
+🔗 [Acessar projeto](aula05_quiz_fnaf/README.md)  
 
 ---
 
